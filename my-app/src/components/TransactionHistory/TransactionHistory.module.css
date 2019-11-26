@@ -1,0 +1,21 @@
+.history {
+  width: 640px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 1px solid gray;
+}
+
+.th  {
+  text-transform: uppercase;
+  border-collapse: collapse;
+  border: 1px solid white;
+  height: 60px;
+  background-color: grey;
+}
+.td {
+  color: gray;
+  border-collapse: collapse;
+  border: 1px solid gray;
+  padding-left: 60px;
+  height: 50px;
+}

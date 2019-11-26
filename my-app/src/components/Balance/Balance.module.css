@@ -1,0 +1,9 @@
+.balance {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: gray;
+  width: 300px;
+  height: 60px;
+  margin: 0 auto;
+}
